@@ -22,11 +22,11 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Founder & Lead Developer at **runaChat** & **RM Music**.
-- 📱 Specializing in cross-platform mobile apps with **Flutter & Dart**, focusing on sleek UI/UX and audio streaming architectures.
-- 🌐 Experienced in modern web development using **Vue.js**, **PHP**, and responsive design.
-- 🤖 Exploring Computer Vision & Python machine learning models (gesture & drowsiness detection).
-- 🇮🇩 Based in Indonesia.
+-  Founder & Lead Developer at **runaChat** & **RM Music**.
+-  Specializing in cross-platform mobile apps with **Flutter & Dart**, focusing on sleek UI/UX and audio streaming architectures.
+-  Experienced in modern web development using **Vue.js**, **PHP**, and responsive design.
+-  Exploring Computer Vision & Python machine learning models (gesture & drowsiness detection).
+-  Based in Indonesia.
 
 ---
 
