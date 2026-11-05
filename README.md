@@ -9,7 +9,7 @@
   
   <p><b>Mobile & Web Developer passionate about building high-performance cross-platform apps, responsive websites, and exploring computer vision.</b></p>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="xianlyruna@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/rillardian655">
