@@ -208,7 +208,7 @@ philosophy:
 <br/>
 
 <div align="center">
-  <i>✨ "First, solve the problem. Then, write the code." — John Johnson ✨</i>
+  <i> "Losing isn’t the scary part. The scary part is when nobody’s worth beating anymore." — Sakayanagi Arisu</i>
   <br/>
-  <b>Always eager to learn, build, and collaborate on world-class software. 🚀</b>
+  <b>Junior or senior, the secret’s the same: never stop learning</b>
 </div>
