@@ -94,7 +94,7 @@ philosophy:
 ### 🛠️ Technical Arsenal & Polyglot Stack
 
 <details open>
-  <summary><b>💻 Programming & Scripting Languages</b></summary>
+  <summary><b>Programming & Scripting Languages</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -176,7 +176,7 @@ philosophy:
 
 ---
 
-### 📊 GitHub Activity & Metrics
+###  GitHub Activity & Metrics
 
 <div align="center">
 
@@ -199,7 +199,7 @@ philosophy:
 
 ---
 
-### 💬 Daily Dev Inspiration
+###  Daily Dev Inspiration
 
 <br/>
 
