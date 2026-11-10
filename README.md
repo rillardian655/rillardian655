@@ -84,14 +84,14 @@ philosophy:
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=rillardian655&repo=runaChat&theme=radical&show_owner=false" alt="runaChat" />
       </a>
       <br/>
-      <sub>💬 <b>runaChat</b> — High-performance cross-platform instant messenger built for encrypted, low-latency communication.</sub>
+      <sub> <b>runaChat</b> — High-performance cross-platform instant messenger built for encrypted, low-latency communication.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technical Arsenal & Polyglot Stack
+###  Technical Arsenal & Polyglot Stack
 
 <details open>
   <summary><b>Programming & Scripting Languages</b></summary>
