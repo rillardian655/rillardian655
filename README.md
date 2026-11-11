@@ -206,5 +206,5 @@ philosophy:
 <div align="center">
   <i> "Losing isn’t the scary part. The scary part is when nobody’s worth beating anymore."  Sakayanagi Arisu.</i>
   <br/>
-  <b>Junior or senior, the secret’s the same: never stop learning</b>
+  <b>Junior or senior, the secret’s the same: never stop learning.</b>
 </div>
