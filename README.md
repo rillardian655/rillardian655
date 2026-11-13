@@ -63,17 +63,17 @@ philosophy:
   - "Continuous learner, polyglot coder, and open-source enthusiast."
 ```
 
-- 🌴 **Creator & Language Engineer** of **MELAYU** *(a production-ready Nusantara programming language built in Rust featuring clean syntax, friendly errors, recursive descent parser, and an interactive REPL)*.
-- 🚀 **Founder & Core Architect** of **runaChat** *(high-performance cross-platform messenger for encrypted, low-latency mobile communications)*.
-- 📱 **Mobile Ecosystem**: Deep expertise in **Flutter & Dart**, creating native-feel fluid 120Hz UIs, custom audio session routing, reactive state pipelines (Riverpod), and headless background services.
-- 🌐 **Full-Stack & Distributed APIs**: Designing robust, resilient backends using **Rust, Node.js, Go, Python, and PHP**, paired with modern reactive frontends (**Vue.js, React, Tailwind CSS**).
-- 🤖 **Computer Vision & Intelligence**: Researching and implementing applied CV pipelines with **Python, OpenCV, and MediaPipe** for real-time facial/gesture recognition and fatigue tracking.
-- ⚙️ **Core Systems & Reliability**: Solid foundations in **Rust, Java, Python, and Linux environments**, understanding concurrency, memory safety, process pipelines, and asynchronous I/O.
-- 🛡️ **DevOps & Quality**: Automating everything via **Git, GitHub Actions CI/CD workflows, Docker containerization, and automated test harnesses**.
+-  **Creator & Language Engineer** of **MELAYU** *(a production-ready Nusantara programming language built in Rust featuring clean syntax, friendly errors, recursive descent parser, and an interactive REPL)*.
+-  **Founder & Core Architect** of **runaChat** *(high-performance cross-platform messenger for encrypted, low-latency mobile communications)*.
+-  **Mobile Ecosystem**: Deep expertise in **Flutter & Dart**, creating native-feel fluid 120Hz UIs, custom audio session routing, reactive state pipelines (Riverpod), and headless background services.
+-  **Full-Stack & Distributed APIs**: Designing robust, resilient backends using **Rust, Node.js, Go, Python, and PHP**, paired with modern reactive frontends (**Vue.js, React, Tailwind CSS**).
+-  **Computer Vision & Intelligence**: Researching and implementing applied CV pipelines with **Python, OpenCV, and MediaPipe** for real-time facial/gesture recognition and fatigue tracking.
+-  **Core Systems & Reliability**: Solid foundations in **Rust, Java, Python, and Linux environments**, understanding concurrency, memory safety, process pipelines, and asynchronous I/O.
+-  **DevOps & Quality**: Automating everything via **Git, GitHub Actions CI/CD workflows, Docker containerization, and automated test harnesses**.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -82,21 +82,21 @@ philosophy:
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=rillardian655&repo=Melayu-Language-by-runa&theme=radical&show_owner=false" alt="MELAYU Language" />
       </a>
       <br/>
-      <sub>🌴 <b>MELAYU Language</b> — Bahasa programming serumpun (Indonesia, Malaysia, Brunei, Singapura). Built in Rust, featuring friendly Malay error messages, zero-symbol blocks, and interactive REPL.</sub>
+      <sub> <b>MELAYU Language</b> — Bahasa programming serumpun (Indonesia, Malaysia, Brunei, Singapura). Built in Rust, featuring friendly Malay error messages, zero-symbol blocks, and interactive REPL.</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/rillardian655/runaChat">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=rillardian655&repo=runaChat&theme=radical&show_owner=false" alt="runaChat" />
       </a>
       <br/>
-      <sub>💬 <b>runaChat</b> — High-performance cross-platform instant messenger built for encrypted, low-latency communication.</sub>
+      <sub> <b>runaChat</b> — High-performance cross-platform instant messenger built for encrypted, low-latency communication.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technical Arsenal & Polyglot Stack
+###  Technical Arsenal & Polyglot Stack
 
 <details open>
   <summary><b>💻 Programming & Scripting Languages</b></summary>
@@ -125,7 +125,7 @@ philosophy:
 </details>
 
 <details open>
-  <summary><b>🌐 Frontend, UI/UX & Web Technologies</b></summary>
+  <summary><b> Frontend, UI/UX & Web Technologies</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
@@ -136,7 +136,7 @@ philosophy:
 </details>
 
 <details open>
-  <summary><b>⚙️ Backend, Frameworks & Protocols</b></summary>
+  <summary><b> Backend, Frameworks & Protocols</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -147,7 +147,7 @@ philosophy:
 </details>
 
 <details open>
-  <summary><b>🧠 Artificial Intelligence, Computer Vision & Data</b></summary>
+  <summary><b> Artificial Intelligence, Computer Vision & Data</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-0072B2?style=for-the-badge&logo=google&logoColor=white" />
@@ -156,7 +156,7 @@ philosophy:
 </details>
 
 <details open>
-  <summary><b>🗄️ Databases & Cloud Infrastructure</b></summary>
+  <summary><b> Databases & Cloud Infrastructure</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -168,7 +168,7 @@ philosophy:
 </details>
 
 <details open>
-  <summary><b>📦 DevOps, Systems, Testing & Tooling</b></summary>
+  <summary><b> DevOps, Systems, Testing & Tooling</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -205,7 +205,7 @@ philosophy:
 
 ---
 
-### 💡 Daily Dev Inspiration
+###  Daily Dev Inspiration
 
 <br/>
 
