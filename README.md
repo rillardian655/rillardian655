@@ -13,20 +13,23 @@
 
   <!-- Dynamic Typing Animation Banner -->
   <a href="https://github.com/rillardian655">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=27F2FF&center=true&vCenter=true&width=620&lines=Multi-Disciplinary+Software+Engineer;Mobile%2C+Web+%26+Cloud+Systems;Flutter%2C+Dart+%26+Mobile+Architect+%F0%9F%93%B1;Python%2C+AI+%26+Computer+Vision+Explorer+%F0%9F%A4%96;Full-Stack+Architect+%7C+Founder+of+%40runaChat;Polyglot+Developer+%E2%80%A2+Dart%2C+Python%2C+Go%2C+PHP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=27F2FF&center=true&vCenter=true&width=680&lines=Creator+of+MELAYU+Language+%F0%9F%8C%B4;Language+Engineer+%26+Rust+Explorer+%F0%9F%A6%80;Multi-Disciplinary+Software+Engineer;Flutter%2C+Dart+%26+Mobile+Architect+%F0%9F%93%B1;Full-Stack+Architect+%7C+Founder+of+%40runaChat;Python%2C+AI+%26+Computer+Vision+Explorer+%F0%9F%A4%96;Polyglot+Developer+%E2%80%A2+Rust%2C+Dart%2C+Python%2C+Go" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Versatile Software Engineer & Tech Explorer passionate about building scalable backends, high-performance cross-platform mobile apps, applied computer vision, and modern cloud architectures.</b>
+    <b>Versatile Software Engineer, Language Engineer & Tech Explorer passionate about programming language design, scalable distributed systems, high-performance cross-platform mobile apps, applied computer vision, and modern cloud architectures.</b>
   </p>
 
   <!-- Social & Contact Pill Badges -->
   <p align="center">
-    <a href="xianlyruna@gmail.com">
+    <a href="mailto:xianlyruna@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/rillardian655">
       <img src="https://img.shields.io/badge/GitHub-rillardian655-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://github.com/rillardian655/Melayu-Language-by-runa">
+      <img src="https://img.shields.io/badge/Language-MELAYU-00E5FF?style=for-the-badge&logo=rust&logoColor=white" alt="MELAYU Lang" />
     </a>
     <a href="https://open.spotify.com">
       <img src="https://img.shields.io/badge/Spotify-Listening-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
@@ -44,10 +47,11 @@
 identity:
   name: Xianly Runa
   title: Multi-Disciplinary Software Engineer & System Architect
-  role: Founder & Lead Developer at @runaChat & RM Music
+  role: Creator & Core Author of MELAYU Language | Founder of @runaChat
   location: Indonesia 
 
 technical_spectrum:
+  language_engineering: Lexer, Parser, AST & Tree-Walking Interpreters (Rust)
   mobile: Cross-Platform Native Performance (Flutter, Android, iOS)
   backend: Distributed APIs, Microservices & Real-Time WebSockets
   frontend: Modern Reactive SPAs & Responsive Web Applications
@@ -59,51 +63,53 @@ philosophy:
   - "Continuous learner, polyglot coder, and open-source enthusiast."
 ```
 
--  **Founder & Core Architect** of **runaChat** *(real-time mobile communications)* and **RM Music** *(Spotify/ViMusic-style high-fidelity streaming ecosystem)*.
--  **Mobile Ecosystem**: Deep expertise in **Flutter & Dart**, creating native-feel fluid 120Hz UIs, custom audio session routing, reactive state pipelines (Riverpod), and headless background services.
--  **Full-Stack & Distributed APIs**: Designing robust, resilient backends using **Node.js, Go, Python, and PHP**, paired with modern reactive frontends (**Vue.js, React, Tailwind CSS**).
--  **Computer Vision & Intelligence**: Researching and implementing applied CV pipelines with **Python, OpenCV, and MediaPipe** for real-time facial/gesture recognition and fatigue tracking.
--  **Core Systems & Reliability**: Solid foundations in **Java, Python, and Linux environments**, understanding concurrency, process pipelines, and asynchronous I/O.
--  **DevOps & Quality**: Automating everything via **Git, GitHub Actions CI/CD workflows, Docker containerization, and automated test harnesses**.
+- 🌴 **Creator & Language Engineer** of **MELAYU** *(a production-ready Nusantara programming language built in Rust featuring clean syntax, friendly errors, recursive descent parser, and an interactive REPL)*.
+- 🚀 **Founder & Core Architect** of **runaChat** *(high-performance cross-platform messenger for encrypted, low-latency mobile communications)*.
+- 📱 **Mobile Ecosystem**: Deep expertise in **Flutter & Dart**, creating native-feel fluid 120Hz UIs, custom audio session routing, reactive state pipelines (Riverpod), and headless background services.
+- 🌐 **Full-Stack & Distributed APIs**: Designing robust, resilient backends using **Rust, Node.js, Go, Python, and PHP**, paired with modern reactive frontends (**Vue.js, React, Tailwind CSS**).
+- 🤖 **Computer Vision & Intelligence**: Researching and implementing applied CV pipelines with **Python, OpenCV, and MediaPipe** for real-time facial/gesture recognition and fatigue tracking.
+- ⚙️ **Core Systems & Reliability**: Solid foundations in **Rust, Java, Python, and Linux environments**, understanding concurrency, memory safety, process pipelines, and asynchronous I/O.
+- 🛡️ **DevOps & Quality**: Automating everything via **Git, GitHub Actions CI/CD workflows, Docker containerization, and automated test harnesses**.
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/rillardian655/runa-music-app">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rillardian655&repo=runa-music-app&theme=radical&show_owner=false" alt="RM Music App" />
+      <a href="https://github.com/rillardian655/Melayu-Language-by-runa">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rillardian655&repo=Melayu-Language-by-runa&theme=radical&show_owner=false" alt="MELAYU Language" />
       </a>
       <br/>
-      <sub>🎵 <b>RM Music</b> — Feature-rich Flutter music player with continuous background playback, dynamic themes, queue management, and offline cache.</sub>
+      <sub>🌴 <b>MELAYU Language</b> — Bahasa programming serumpun (Indonesia, Malaysia, Brunei, Singapura). Built in Rust, featuring friendly Malay error messages, zero-symbol blocks, and interactive REPL.</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/rillardian655/runaChat">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=rillardian655&repo=runaChat&theme=radical&show_owner=false" alt="runaChat" />
       </a>
       <br/>
-      <sub> <b>runaChat</b> — High-performance cross-platform instant messenger built for encrypted, low-latency communication.</sub>
+      <sub>💬 <b>runaChat</b> — High-performance cross-platform instant messenger built for encrypted, low-latency communication.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-###  Technical Arsenal & Polyglot Stack
+### 🛠️ Technical Arsenal & Polyglot Stack
 
 <details open>
-  <summary><b>Programming & Scripting Languages</b></summary>
+  <summary><b>💻 Programming & Scripting Languages</b></summary>
   <br/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -141,7 +147,7 @@ philosophy:
 </details>
 
 <details open>
-  <summary><b> Artificial Intelligence, Computer Vision & Data</b></summary>
+  <summary><b>🧠 Artificial Intelligence, Computer Vision & Data</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-0072B2?style=for-the-badge&logo=google&logoColor=white" />
@@ -150,7 +156,7 @@ philosophy:
 </details>
 
 <details open>
-  <summary><b> Databases & Cloud Infrastructure</b></summary>
+  <summary><b>🗄️ Databases & Cloud Infrastructure</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -162,7 +168,7 @@ philosophy:
 </details>
 
 <details open>
-  <summary><b> DevOps, Systems, Testing & Tooling</b></summary>
+  <summary><b>📦 DevOps, Systems, Testing & Tooling</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -176,7 +182,7 @@ philosophy:
 
 ---
 
-###  GitHub Activity & Metrics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
@@ -199,12 +205,12 @@ philosophy:
 
 ---
 
-###  Daily Dev Inspiration
+### 💡 Daily Dev Inspiration
 
 <br/>
 
 <div align="center">
-  <i> "Losing isn’t the scary part. The scary part is when nobody’s worth beating anymore."  Sakayanagi Arisu.</i>
+  <i>"Losing isn’t the scary part. The scary part is when nobody’s worth beating anymore." — Sakayanagi Arisu.</i>
   <br/>
   <b>Junior or senior, the secret’s the same: never stop learning.</b>
 </div>
